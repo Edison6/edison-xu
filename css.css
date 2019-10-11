@@ -1,0 +1,17 @@
+body{padding: 0;margin: 0;}
+.hezidingbu{width: 1100px;height: 100px;margin: auto;background:#87CEFA ;margin-top: -47px;}
+.daohang{width: 1100px;height: 50px;margin: auto;background: #87CEFA;margin-top: -15px;}
+.daohang ul li{width: 330px;line-height: 50px;list-style-type: none;float: left;}
+.daohang ul li a{text-align: center;text-decoration: none;color: white;padding: 0 30px;display: block;}
+.daohang ul li a:hover{background: greenyellow;}
+.mainone{width: 1100px;height: 170px;background:#87CEFA;margin: auto;}
+.mainone img{padding: 9px 10px;}
+.maintow{width: 1100px;height: 30px;margin: auto;background: #87CEFA;}
+.mainthree{width: 1100px;height: 600px;margin: auto;background:#87CEFA;}
+.mainthree .left{width: 430px;height: 600px;float: left;}
+.mainthree .left img{padding: 0 15px;}
+.mainthree .right{width: 645px;height: 600px;float: right;}
+.footer{width: 1100px;height: 40px;margin: auto;background: #ffffff;margin-top: -15px;}
+.mainfour{width: 1100px;height: 600px;margin: auto;background:#87CEFA;margin-top: -20px;}
+.mainsix{width: 1100px;height: 790px;margin: auto;background:#87CEFA;margin-top: -20px;}
+.mainsix .img img{padding: 5px 15px;}
